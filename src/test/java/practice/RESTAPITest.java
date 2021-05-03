@@ -20,4 +20,10 @@ public class RESTAPITest
 	{
 		System.out.println("Last change");
 	}
+	
+	public void branch()
+	{
+		System.out.println("branch");
+	}
+	
 }
