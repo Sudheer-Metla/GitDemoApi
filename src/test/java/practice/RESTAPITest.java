@@ -26,4 +26,9 @@ public class RESTAPITest
 		System.out.println("branch");
 	}
 	
+	public void ArchitectAdd()
+	{
+		System.out.println("ArchitectAdd");
+	}
+	
 }
