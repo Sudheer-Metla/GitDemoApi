@@ -15,4 +15,9 @@ public class RESTAPITest
 	{
 		System.out.println("deleted twitter");
 	}
+	
+	public void LastChange()
+	{
+		System.out.println("Last change");
+	}
 }
